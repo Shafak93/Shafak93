@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQG2boFPjk6gIA/profile-displaybackgroundimage-shrink_350_1400/0/1654692681262?e=1671667200&v=beta&t=F82pUDwml5l7U8kw6UjluENpVecKs4LCnfCFlSBhsJk" align="center" style="width: 100%" />
+<img src="https://media-exp1.licdn.com/dms/image/D5616AQGCrWfpoqRzdg/profile-displaybackgroundimage-shrink_350_1400/0/1667041715773?e=1672272000&v=beta&t=pUFihzxqZO9I937ZMfsnqQjk2pefT8YfwpAyZGujimU" align="center" style="width: 100%" />
 </div>  
 
 ### Hello World 👋, I'm MD Mohiuddin Shafak
 #### Web Developer | Frontend Developer | React Developer
 
-I am a front-end web developer. I have a good understanding of React JS, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS and I'm familiar with Node JS, Express JS, MongoDB, jQuery, and Redux. I can ensure you that I can adapt myself to this rapidly changing industry. I spent above one year in this field of self-learning. I did some projects where I explored my front-end and back-end knowledge.
+I am a web developer. I have a good understanding of React JS, JavaScript, HTML, CSS, Bootstrap, and Tailwind CSS and I'm familiar with Node JS, Express JS, MongoDB, jQuery, and Redux. I can ensure you that I can adapt myself to this rapidly changing industry. I spent above one year in this field of self-learning. I did some projects where I explored my front-end and back-end knowledge.
 
 
 
