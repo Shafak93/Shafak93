@@ -31,7 +31,7 @@ I am a web developer. I have a good understanding of React JS, JavaScript, HTML,
 <a href="https://instagram.com/https://www.instagram.com/mohi_u_shafak/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/@shafakctg" target="_blank">
+<a href="https://medium.com/@shafakctg" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
